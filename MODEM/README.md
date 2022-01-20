@@ -85,5 +85,6 @@ On peut voir les spectres temporels et fréquentiels de la modulation sur les gr
 
 ## Démodulations
 
+Détail de l'étude sur le rapport
 
 
