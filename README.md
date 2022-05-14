@@ -9,5 +9,5 @@ The project consists in realizing an ideal MODEM using the OOK and BPSK principl
 Tests were made by modifying the MODEM's parameters like the sampling frequency, the SNR, chirp duration etc.
 
 
-The results, which are summarized in the report (in French), show without surprise that the BPSK modulation is unanimously more efficient the OOK one. 
+The results, which are summarized in the report (in French), show without surprise that the BPSK modulation is unanimously more efficient than the OOK one. 
 However, OOK remains a low cost technique worth to investigate. 
