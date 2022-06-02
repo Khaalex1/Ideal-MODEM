@@ -1,6 +1,6 @@
 # Ideal-MODEM
 
-MATLAB academic project made with my colleague and friend G. GUEGANNO for the Modulation Course taught by Dr. A. MANSOUR at ENSTA Bretagne.
+MATLAB academic project made with my colleague and friend G. GUEGANNO for the Signal modulation Course.
 
 
 The project consists in realizing an ideal MODEM using the OOK and BPSK principles to transmit and decode a signal.
