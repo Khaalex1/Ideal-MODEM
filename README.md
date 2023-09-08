@@ -1,4 +1,4 @@
-# Ideal-MODEM
+# Ideal MODEM
 
 MATLAB academic project made with my colleague and friend G. GUEGANNO for the Signal modulation Course.
 
